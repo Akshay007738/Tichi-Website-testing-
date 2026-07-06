@@ -1,0 +1,7 @@
+## Technologies Used
+
+- Python 3.x
+- Selenium
+- OpenPyXL
+- Google Chrome
+- ChromeDriver
